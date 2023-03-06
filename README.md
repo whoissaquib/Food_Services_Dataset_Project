@@ -36,8 +36,8 @@ UNITs = 5(1-9Units)
 6.	Performed Label encoding to the no of Employee columns.
 
 7.	Label encoding the Year in business column for better statistical findings
-# 2 to 5 = 0
-# 5 yr. plus = 1
+2 to 5 = 0
+5 yr. plus = 1
 
 8.	Replaced annual sales value to numeric type values rather than choosing Label Encoding, I replaced value by self for better understanding.
 
